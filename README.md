@@ -29,7 +29,7 @@ Claude Code responds → Hook sends message to app → App speaks it via TTS
 ## Install
 
 ```bash
-git clone https://github.com/crfgxr/claude-code-handsfree.git
+git clone https://github.com/cagdarts/claude-code-handsfree.git
 cd claude-code-handsfree
 make run
 ```
